@@ -27,4 +27,7 @@ for i in name:
     print(i)
 
 for i in range(5,33):
-    print(i)
+    if i%2==0:
+        print("this num is even", i)
+    else:
+        print("this num is odd", i)

@@ -25,3 +25,6 @@ while(lm>0):
 name = "vipul"
 for i in name:
     print(i)
+
+for i in range(5,33):
+    print(i)

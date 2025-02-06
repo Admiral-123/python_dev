@@ -15,3 +15,13 @@ for x in num:
         largest = x
 
 print(largest)
+
+
+lm = 6
+while(lm>0):
+    print("wow")
+    lm-=1
+
+name = "vipul"
+for i in name:
+    print(i)
